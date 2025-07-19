@@ -25,7 +25,7 @@ An interactive Excel dashboard that explores customer behavior, product performa
   - **City**
 
 ## 📷 Preview
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](images/dashboard_img.png)
 
 ## 📁 Files
 - `Retail_Dashboard.xlsx` — Main dashboard file
