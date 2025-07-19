@@ -4,11 +4,11 @@
 An interactive Excel dashboard that explores customer behavior, product performance, and payment channel insights across multiple retail branches.  
 
 ## 💡 Dashboard Features
--  **KPI Cards**  
-  - **Total Sales**  
-  - **Tax Collected**  
-  - **Unit Price**  
-  - **Quantity Sold**
+  -  **KPI Cards**  
+    - **Total Sales**  
+    - **Tax Collected**  
+    - **Unit Price**  
+    - **Quantity Sold**
 
 - 📊 **Chart Breakdown**:
   - **Product Line Performance** (Bar chart): Total and Unit Price across six categories  
